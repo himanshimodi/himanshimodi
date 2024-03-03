@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!!!+👋;I'm+Himanshi+Modi+👧🏻;And+welcome+to+my+README!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=900&center=true&random=false&width=440&lines=Hey+there+%F0%9F%91%8B;I'm+Himanshi+Modi+%F0%9F%91%A7%F0%9F%8F%BB;I'm+keen+about+tech;Welcome+to+my+README!!!)](https://git.io/typing-svg)
 ###
 
 <div align="center">
