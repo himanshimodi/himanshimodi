@@ -72,9 +72,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshimodi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshimodi" /> </p>
-</div>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=himanshimodi&label=Visitor's%20Count&color=0e75b6&style=plastic" alt="himanshimodi" width="150" height="25" /> 
+</p>
+
 
 
 ###
