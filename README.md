@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=900&center=true&random=false&width=440&lines=Hey+there+%F0%9F%91%8B;I'm+Himanshi+Modi+%F0%9F%91%A7%F0%9F%8F%BB;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator;Welcome+to+my+README!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=900&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Himanshi+Modi+%F0%9F%91%A7%F0%9F%8F%BB;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator;Welcome+to+my+README!!!)](https://git.io/typing-svg)
 
 ---
 
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google apis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" alt="langchain logo"  />
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" height="40" alt="langchain logo"  />
 </div>
 
 ---
