@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=900&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Himanshi+Modi+%F0%9F%91%A7%F0%9F%8F%BB;+%7CTech+EEnthusiast+%7C+Problem+Solver+%7C+;Welcome+to+my+README!!!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=900&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B;I'm+Himanshi+Modi+%F0%9F%91%A7%F0%9F%8F%BB;Tech+Enthusiast+%7C+Problem+Solver+%7C+Innovator;Welcome+to+my+README!!!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/himanshimodi/" target="_blank">
@@ -38,7 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google apis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/LangChain_Icon.png" height="40" alt="langchain logo"  />
+  <img src="https://seeklogo.com/images/L/langchain-logo-6B9C1DD2A8-seeklogo.com.svg" height="40" alt="LangChain logo" />
+
 </div>
 
 ---
