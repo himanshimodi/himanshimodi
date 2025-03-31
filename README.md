@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google apis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://seeklogo.com/images/L/langchain-logo-6B9C1DD2A8-seeklogo.com.svg" height="40" alt="LangChain logo" />
+  <img src="https://lobehub.com/static/images/icons/langchain.svg" height="40" alt="LangChain logo" />
 
 </div>
 
